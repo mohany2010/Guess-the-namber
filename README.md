@@ -12,3 +12,4 @@ git commit -m "أول نسخة من اللعبة"
 git remote add origin https://github.com/mohany2010/Guess-the-namber.git
 
 git push -u origin main
+
